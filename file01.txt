@@ -1,1 +1,1 @@
-update = devUpdate
+update = finallyUpdate
